@@ -4,12 +4,8 @@ public class StatusChecker {
 
 
     private boolean isLegit;
-    /*
-        //////////////////8888888
-     */
 
     public boolean isLegit() {
-        //////////////
         return isLegit;
     }
 
