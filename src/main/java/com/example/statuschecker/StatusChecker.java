@@ -4,6 +4,7 @@ public class StatusChecker {
 
 
     private boolean isLegit;
+    //aaaaaaaa
 
     public boolean isLegit() {
         return isLegit;
