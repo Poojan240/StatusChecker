@@ -4,7 +4,7 @@ public class StatusChecker {
 
 
     private boolean isLegit;
-    //down
+    //i did at the top.
 
     public boolean isLegit() {
         return isLegit;
